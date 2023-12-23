@@ -1,15 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thanos Doumas
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Thanos Doumas
 =====================================================================================================================================
 
 Enthusiastic Developer
 ----------------------
 
-Currently working as Associate Services Manager but my secret love was always coding and more especially web development in the area of Frontend.
+Currently working as Associate Services Manager but my secret love was always coding so please don't tell it to anyone...let it be our little secret 🙃
 
 * 🌍  I'm based in Athens, Greece
 * ✉️  You can contact me at [thanosdoumas555@gmail.com](mailto:thanosdoumas555@gmail.com)
 * 🚀  I'm currently working on [Pixelocracy](http://thepixelocracy.com)
-* 🧠  I'm learning php, react, vue
+* 🧠  I'm learning php, react, aws
 * 🤝  I'm open to collaborating on frontend, backend development
 
 ### Skills
