@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thanos Doumas</h1>
 <h3 align="center">Enthusiastic Developer from Greece</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thanos-do" alt="thanos-do" /></a> </p>
-
 - 🔭 I’m currently working on **Custom Wordpress Theme**
 
 - 🌱 I’m currently learning **Tailwind, PHP, JS**
@@ -32,3 +30,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanos-do&show_icons=true&theme=onedark&locale=en&layout=compact" alt="thanos-do" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thanos-do&theme=dark" alt="thanos-do" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thanos-do" alt="thanos-do" /></a> </p>
