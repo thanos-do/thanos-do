@@ -9,8 +9,6 @@
 
 - 🤝 I’m looking for help with **PHP/AWS/JS**
 
-- 📝 I regularly write articles on [https://medium.com/@ath_d](https://medium.com/@ath_d)
-
 - 💬 Ask me about **Bootstrap, CSS**
 
 - 📫 How to reach me **thanosdoumas555@gmail.com**
