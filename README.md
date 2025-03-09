@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Thanos Doumas</h1>
 <h3 align="center">Enthusiastic Developer from Greece</h3>
 
-- 🔭 I’m currently working on **Custom Wordpress Theme**
+- 🔭 I’m currently working on **AI QA - Website**
 
-- 🌱 I’m currently learning **Tailwind, PHP, JS**
+- 🌱 I’m currently learning **PHP,JS**
 
 - 👯 I’m looking to collaborate on **Frontend-End / Back-End**
 
-- 🤝 I’m looking for help with **PHP/AWS/JS**
+- 🤝 I’m looking for help with **PHP/JS**
 
 - 💬 Ask me about **Bootstrap, CSS**
 
