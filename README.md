@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thanos Doumas</h1>
 <h3 align="center">Enthusiastic Developer from Greece</h3>
 
-- 🔭 I’m currently working on **AI QA - Website**
+- 🔭 I’m currently working on **AI QA Engineer**
 
 - 🌱 I’m currently learning **PHP,JS**
 
